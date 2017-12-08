@@ -3,8 +3,8 @@
 
 清除浮动的方法
 1. 给浮动元素的祖先元素设置：`height: `
-2. 给需要清除浮动的元素设置：`clear: both;`
-3. 在浮动元素和需要清除浮动的元素之间添加一个元素并且设置：`clear: both;`
-4. 给浮动元素的祖先元素设置：`overflow: hidden;`
-5. 给浮动元素的祖先元素设置：`overflow: auto;`
-6. 给浮动元素的祖先元素的伪类设置：`display: block`;content: "";clear: both;`
+2. 给浮动元素的祖先元素设置：`overflow: hidden;`
+3. 给浮动元素的祖先元素设置：`overflow: auto;`
+4. 给需要清除浮动的元素设置：`clear: both;`
+5. 在浮动元素和需要清除浮动的元素之间添加一个元素并且设置：`clear: both;`
+6. 给浮动元素的祖先元素的伪类设置：`display: block;content: "";clear: both;`
