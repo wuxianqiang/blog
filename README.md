@@ -45,6 +45,16 @@ var obj = {
 }
 console.log(obj.fn); //报错
 ```
+块级作用域中变量名不能和函数名同名
+```js
+console.log(AA); //undefined
+{
+    var AA = 10;
+    function AA() {}
+}
+console.log(AA) //报错
+```
+
 关键字定义的区别
 
 |关键字|是否会给window增加属性|是否可以重复声明|是否声明时候必须赋值|是否赋值之后可以修改|是否只在自己的块级作用域里有效|
