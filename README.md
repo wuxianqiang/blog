@@ -58,7 +58,7 @@ console.log(obj.fn); //报错
 |情况|var是否会声明|var是否会定义|function是否会声明|function是否会定义|
 |-|-|-|-|-|
 |全局作用域|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
-|if条件判断（不管条件是否成立）|是:white_check_mark:|否|是:white_check_mark:|否|
+|if判断/for循环（不管条件是否成立）|是:white_check_mark:|否|是:white_check_mark:|否|
 |return返回值|否|否|否|否|
 |返回值之后的内容|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
 
