@@ -30,3 +30,13 @@ console.log(res) //[1,2,3,4,5]
 function fn(x,y=2,z){}
 console.log(fn.length); //1
 ```
+对象存储值的过程
+```js
+var obj = {
+    name: "Qiang",
+    fn: (function () {
+        return obj.name;
+    })()
+}
+console.log(obj.fn); //报错
+```
