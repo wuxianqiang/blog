@@ -48,7 +48,12 @@ console.log(obj.fn); //报错
 |let|否|否|否|是:white_check_mark:|
 |const|否|否|是:white_check_mark:|否|
 
-* 自执行函数和回调函数是不进行变量提升
-* if条件判断不管条件是否成立带var和带function的关键字的都会经行变量提升
-* return返回值不进行变量提升
-* 返回值之后的内容会进行变量提升且带var的只声明不定义带function的会声明会定义
+变量提升提升情况
+
+|情况|var是否会声明|var是否会定义|function是否会声明|function是否会定义|
+|-|-|-|-|-|
+|全局作用域|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
+|if条件判断（不管条件是否成立）|是:white_check_mark:|否|是:white_check_mark:|否|
+|return返回值|否|否|否|否|
+|返回值之后的内容|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
+
