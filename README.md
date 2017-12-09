@@ -47,11 +47,11 @@ console.log(obj.fn); //报错
 ```
 关键字定义的区别
 
-|关键字|是否会给window增加属性|是否可以重复声明|是否声明时候必须赋值|是否赋值之后可以修改|
-|-|-|-|-|-|
-|var|是:white_check_mark:|是:white_check_mark:|否|是:white_check_mark:|
-|let|否|否|否|是:white_check_mark:|
-|const|否|否|是:white_check_mark:|否|
+|关键字|是否会给window增加属性|是否可以重复声明|是否声明时候必须赋值|是否赋值之后可以修改|是否只在自己的块级作用域里有效|
+|-|-|-|-|-|-|
+|var|是:white_check_mark:|是:white_check_mark:|否|是:white_check_mark:|否|
+|let|否|否|否|是:white_check_mark:|是:white_check_mark:|
+|const|否|否|是:white_check_mark:|否|是:white_check_mark:|
 
 变量提升提升情况
 
