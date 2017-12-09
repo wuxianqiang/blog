@@ -44,11 +44,11 @@ console.log(obj.fn); //报错
 
 |关键字|是否会给window增加属性|是否可以重复声明|是否声明时候必须赋值|是否赋值之后可以修改|
 |-|-|-|-|-|
-|var|是|是|否|是|
-|let|否|否|否|是|
-|const|否|否|是|否|
+|var|是:white_check_mark:|是:white_check_mark:|否|是:white_check_mark:|
+|let|否|否|否|是:white_check_mark:|
+|const|否|否|是:white_check_mark:|否|
 
 * 自执行函数和回调函数是不进行变量提升
 * if条件判断不管条件是否成立带var和带function的关键字的都会经行变量提升
 * return返回值不进行变量提升
-* 返回值之后的内容会经行变量提升且带var的只声明不定义带function的会声明会定义
+* 返回值之后的内容会进行变量提升且带var的只声明不定义带function的会声明会定义
