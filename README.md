@@ -72,3 +72,22 @@ console.log(AA) //报错
 |return返回值|否|否|否|否|
 |返回值之后的内容|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
 
+爱奇艺面试题
+```js
+var m= 1, j = k = 0; 
+function add(n) { 
+    return n = n+1; 
+} 
+y = add(m); 
+function add(n) { 
+    return n = n + 3; 
+} 
+z = add(m); 
+console.log(y + "," + z);
+```
+答案：4，4
+```js
+var n=2.toString();
+console.log(typeof(n));
+```
+答案：报错
