@@ -9,6 +9,11 @@
 5. 在浮动元素和需要清除浮动的元素之间添加一个元素并且设置：`clear: both;`
 6. 给浮动元素的祖先元素的伪类设置：`display: block;content: "";clear: both;`
 
+数组toString()的原理是数组的每一项都会调用toString()
+```js
+var ary = [[[1,2]],[[3,4]]];
+console.log(ary.toString()) //"1,2,3,4"
+```
 对象存储值的过程
 ```js
 var obj = {
