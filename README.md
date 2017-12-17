@@ -109,3 +109,10 @@ var reg = /(\w+?)(\d+)/g;
 console.log(reg.exec("hello2018"))
 //[ 'hello2018', 'hello', '2018', index: 0, input: 'hello2018' ]
 ```
+函数参数的默认值会影响函数的length属性，如果指定了默认值，则默认值前面的才属于length
+```js
+function fn(a,b=1,c) {
+    console.log(fn.length); //1
+}
+fn()
+```
