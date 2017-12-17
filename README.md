@@ -127,3 +127,7 @@ function fn2() {
 let obj = {}
 fn1.call.call.call(fn2,obj) //=>fn2.call(obj)
 ```
+怎样让字符串反过来
+```js
+console.log("hello".split("").reverse().join(""))
+```
