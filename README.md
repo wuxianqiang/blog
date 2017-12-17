@@ -116,3 +116,14 @@ function fn(a,b=1,c) {
 }
 fn()
 ```
+多个call的问题
+```js
+function fn1() {
+    console.log(1,this);
+}
+function fn2() {
+    console.log(2,this);
+}
+let obj = {}
+fn1.call.call.call(fn2,obj) //=>fn2.call(obj)
+```
