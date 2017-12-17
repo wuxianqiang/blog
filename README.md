@@ -91,6 +91,7 @@ var n=2.toString();
 console.log(typeof(n));
 ```
 答案：报错
+
 正则对分组的处理和贪婪性处理
 ```js
 var reg = /(\w)+/g;
@@ -99,4 +100,12 @@ console.log(reg.exec("wuxianqiang"))
 var reg = /(\w+)/g;
 console.log(reg.exec("wuxianqiang"))
 //[ 'wuxianqiang', 'wuxianqiang', index: 0, input: 'wuxianqiang' ]
+```
+```js
+var reg = /(\w+)(\d+)/g;
+console.log(reg.exec("hello2018"))
+//[ 'hello2018', 'hello201', '8', index: 0, input: 'hello2018' ]
+var reg = /(\w+?)(\d+)/g;
+console.log(reg.exec("hello2018"))
+//[ 'hello2018', 'hello', '2018', index: 0, input: 'hello2018' ]
 ```
