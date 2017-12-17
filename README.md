@@ -91,3 +91,12 @@ var n=2.toString();
 console.log(typeof(n));
 ```
 答案：报错
+正则对分组的处理和贪婪性处理
+```js
+var reg = /(\w)+/g;
+console.log(reg.exec("wuxianqiang"))
+//[ 'wuxianqiang', 'g', index: 0, input: 'wuxianqiang' ]
+var reg = /(\w+)/g;
+console.log(reg.exec("wuxianqiang"))
+//[ 'wuxianqiang', 'wuxianqiang', index: 0, input: 'wuxianqiang' ]
+```
