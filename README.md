@@ -24,4 +24,8 @@
 * [x] [掌握jQuery的用法](https://github.com/wuxianqiang/jQuery)
 * [x] [jQuery源码阅读](https://github.com/wuxianqiang/exercises/issues/23)
 
+#### CSS系列
+* [ ] 水平垂直居中一个元素
+* [ ] CSS高级技巧
+
 **文章还在更新中...**
