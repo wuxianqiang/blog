@@ -1,133 +1,27 @@
-# exercises
-练习题
+# 前端开发系列分享
+这篇文章是分享作者在前端开发过程中遇到的各种问题，以及作为前端工程师我们必须掌握的一些技能。由于前端是一个不断学习新技术的过程，所以我打算把之前的知识总结起来，同时把学习的新知识和大家一起分享。在此我也想邀请感兴趣的前端达人和我一起写作，写出更好更优秀的文章，共同进步。
 
-清除浮动的方法
-1. 给浮动元素的祖先元素设置：`height: `
-2. 给浮动元素的祖先元素设置：`overflow: hidden;`
-3. 给浮动元素的祖先元素设置：`overflow: auto;`
-4. 给需要清除浮动的元素设置：`clear: both;`
-5. 在浮动元素和需要清除浮动的元素之间添加一个元素并且设置：`clear: both;`
-6. 给浮动元素的祖先元素的伪类设置：`display: block;content: "";clear: both;`
+#### 原生JS系列
 
-数组toString()的原理是数组的每一项都会调用toString()
-```js
-var ary = [[[1,2]],[[3,4]]];
-console.log(ary.toString()) //"1,2,3,4"
-```
-对象存储值的过程
-```js
-var obj = {
-    name: "Qiang",
-    fn: (function () {
-        return obj.name
-    })()
-}
-console.log(obj.fn);// 报错，对象是先存储值，然后再把内存地址赋值给obj
-```
-构造函数创建函数的参数
-```js
-var str = "[1,2,3,4,5]";
-var res = new Function("return" + str)();
-console.log(res) //[1,2,3,4,5]
-```
-函数的length属性
-```js
-function fn(x,y=2,z){}
-console.log(fn.length); //1
-```
-对象存储值的过程
-```js
-var obj = {
-    name: "Qiang",
-    fn: (function () {
-        return obj.name;
-    })()
-}
-console.log(obj.fn); //报错
-```
-块级作用域中变量名不能和函数名同名
-```js
-console.log(AA); //undefined
-{
-    var AA = 10;
-    function AA() {}
-}
-console.log(AA) //报错
-```
+* [x] [掌握JavaScript基础知识](https://github.com/wuxianqiang/front-end-essence)
+* [x] [变量提升必须注意的问题](https://github.com/wuxianqiang/exercises/issues/17)
+* [x] [说一下字符串都有哪些方法](https://github.com/wuxianqiang/exercises/issues/21)
+* [x] [说一下数组都有哪些方法](https://github.com/wuxianqiang/exercises/issues/20)
+* [x] [如何实现数组去重](https://github.com/wuxianqiang/exercises/issues/18)
+* [x] [如何实现数组排序](https://github.com/wuxianqiang/exercises/issues/28)
+* [x] [怎样拷贝数组（深/浅拷贝）](https://github.com/wuxianqiang/exercises/issues/29)
+* [x] [怎样拷贝对象（深/浅拷贝）](https://github.com/wuxianqiang/exercises/issues/27)
+* [x] [什么是面向对象（面向对象开发）](https://github.com/wuxianqiang/exercises/issues/30)
+* [x] [深入理解原型](https://github.com/wuxianqiang/exercises/issues/24)
+* [x] [六种继承](https://github.com/wuxianqiang/exercises/issues/31)
+* [x] [手写一个jsonp](https://github.com/wuxianqiang/exercises/issues/34)
+* [x] [手写一个promise](https://github.com/wuxianqiang/exercises/issues/25)
+* [x] [前端性能优化那些事](https://github.com/wuxianqiang/exercises/issues/33)
+* [x] [前端要注意的网站安全](https://github.com/wuxianqiang/exercises/issues/32)
+* [x] [前端开发必会的面试题](https://github.com/wuxianqiang/exercises/issues/19)
 
-关键字定义的区别
+#### jQuery系列
+* [x] [掌握jQuery的用法](https://github.com/wuxianqiang/jQuery)
+* [x] [jQuery源码阅读](https://github.com/wuxianqiang/exercises/issues/23)
 
-|关键字|是否会给window增加属性|是否可以重复声明|是否声明时候必须赋值|是否赋值之后可以修改|是否只在自己的块级作用域里有效|
-|-|-|-|-|-|-|
-|var|是:white_check_mark:|是:white_check_mark:|否|是:white_check_mark:|否|
-|let|否|否|否|是:white_check_mark:|是:white_check_mark:|
-|const|否|否|是:white_check_mark:|否|是:white_check_mark:|
-
-变量提升提升情况
-
-|情况|var是否会声明|var是否会定义|function是否会声明|function是否会定义|
-|-|-|-|-|-|
-|全局作用域|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
-|if判断/for循环（不管条件是否成立）|是:white_check_mark:|否|是:white_check_mark:|否|
-|return返回值|否|否|否|否|
-|返回值之后的内容|是:white_check_mark:|否|是:white_check_mark:|是:white_check_mark:|
-
-爱奇艺面试题
-```js
-var m= 1, j = k = 0; 
-function add(n) { 
-    return n = n+1; 
-} 
-y = add(m); 
-function add(n) { 
-    return n = n + 3; 
-} 
-z = add(m); 
-console.log(y + "," + z);
-```
-答案：4，4
-```js
-var n=2.toString();
-console.log(typeof(n));
-```
-答案：报错
-
-正则对分组的处理和贪婪性处理
-```js
-var reg = /(\w)+/g;
-console.log(reg.exec("wuxianqiang"))
-//[ 'wuxianqiang', 'g', index: 0, input: 'wuxianqiang' ]
-var reg = /(\w+)/g;
-console.log(reg.exec("wuxianqiang"))
-//[ 'wuxianqiang', 'wuxianqiang', index: 0, input: 'wuxianqiang' ]
-```
-```js
-var reg = /(\w+)(\d+)/g;
-console.log(reg.exec("hello2018"))
-//[ 'hello2018', 'hello201', '8', index: 0, input: 'hello2018' ]
-var reg = /(\w+?)(\d+)/g;
-console.log(reg.exec("hello2018"))
-//[ 'hello2018', 'hello', '2018', index: 0, input: 'hello2018' ]
-```
-函数参数的默认值会影响函数的length属性，如果指定了默认值，则默认值前面的才属于length
-```js
-function fn(a,b=1,c) {
-    console.log(fn.length); //1
-}
-fn()
-```
-多个call的问题
-```js
-function fn1() {
-    console.log(1,this);
-}
-function fn2() {
-    console.log(2,this);
-}
-let obj = {}
-fn1.call.call.call(fn2,obj) //=>fn2.call(obj)
-```
-怎样让字符串反过来
-```js
-console.log("hello".split("").reverse().join(""))
-```
+**文章还在更新中...**
