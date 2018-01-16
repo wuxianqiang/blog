@@ -19,6 +19,7 @@
 * [x] [前端性能优化那些事](https://github.com/wuxianqiang/exercises/issues/33)
 * [x] [前端要注意的网站安全](https://github.com/wuxianqiang/exercises/issues/32)
 * [x] [前端开发必会的面试题](https://github.com/wuxianqiang/exercises/issues/19)
+* [x] [不能错过的前端资料](https://github.com/wuxianqiang/exercises/issues/16)
 * [ ] ES5和ES6的区别
 * [ ] 箭头函数和普通函数的区别
 * [ ] exec和match的区别
