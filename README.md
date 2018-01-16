@@ -23,6 +23,7 @@
 * [ ] ES5和ES6的区别
 * [ ] 箭头函数和普通函数的区别
 * [ ] exec和match的区别
+* [ ] 严格模式和非严格模式的区别
 
 #### jQuery系列
 * [x] [掌握jQuery的用法](https://github.com/wuxianqiang/jQuery)
