@@ -32,7 +32,7 @@
 
 #### CSS系列
 * [ ] 什么是标签语言化
-* [ ] 水平垂直居中一个元素
-* [ ] CSS高级技巧
+* [x] [水平垂直居中一个元素](https://github.com/wuxianqiang/blog/issues/40)
+* [x] [CSS高级技巧](https://github.com/wuxianqiang/blog/issues/41)
 
 **文章还在更新中...**
