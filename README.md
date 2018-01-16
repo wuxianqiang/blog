@@ -29,6 +29,7 @@
 * [x] [jQuery源码阅读三](https://github.com/wuxianqiang/exercises/issues/39)
 
 #### CSS系列
+* [ ] 什么是标签语言化
 * [ ] 水平垂直居中一个元素
 * [ ] CSS高级技巧
 
