@@ -23,6 +23,8 @@
 #### jQuery系列
 * [x] [掌握jQuery的用法](https://github.com/wuxianqiang/jQuery)
 * [x] [jQuery源码阅读](https://github.com/wuxianqiang/exercises/issues/23)
+* [x] [jQuery源码阅读二](https://github.com/wuxianqiang/exercises/issues/38)
+* [x] [jQuery源码阅读三](https://github.com/wuxianqiang/exercises/issues/39)
 
 #### CSS系列
 * [ ] 水平垂直居中一个元素
