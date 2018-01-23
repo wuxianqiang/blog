@@ -20,7 +20,7 @@
 * [x] [前端要注意的网站安全](https://github.com/wuxianqiang/exercises/issues/32)
 * [x] [前端开发必会的面试题](https://github.com/wuxianqiang/exercises/issues/19)
 * [x] [不能错过的前端资料](https://github.com/wuxianqiang/exercises/issues/16)
-* [ ] ES5和ES6的区别
+* [x] [ES5和ES6的区别](https://github.com/wuxianqiang/blog/issues/45)
 * [ ] 箭头函数和普通函数的区别
 * [ ] exec和match的区别
 * [ ] 严格模式和非严格模式的区别
