@@ -36,4 +36,8 @@
 * [x] [水平垂直居中一个元素](https://github.com/wuxianqiang/blog/issues/41)
 * [x] [CSS高级技巧](https://github.com/wuxianqiang/blog/issues/40)
 
+#### 资料系列
+
+* [动画与性能](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance?hl=zh-cn#css-vs-javascript-performance)
+
 **文章还在更新中...**
