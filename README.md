@@ -41,5 +41,6 @@
 #### 资料系列
 
 * [动画与性能](https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance?hl=zh-cn#css-vs-javascript-performance)
+* [2017年前端前景如何？](https://www.zhihu.com/question/52590109/answer/494409906)
 
 **文章还在更新中...**
