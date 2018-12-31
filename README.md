@@ -3,6 +3,7 @@
 
 #### 原生JS系列
 
+* [x] [理解nodeJS中的Event loop](https://github.com/wuxianqiang/front-end-essence)
 * [x] [掌握JavaScript基础知识](https://github.com/wuxianqiang/front-end-essence)
 * [x] [变量提升必须注意的问题](https://github.com/wuxianqiang/exercises/issues/17)
 * [x] [说一下字符串都有哪些方法](https://github.com/wuxianqiang/exercises/issues/21)
