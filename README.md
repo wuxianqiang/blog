@@ -5,7 +5,7 @@
 
 #### Vue系列
 
-* [x] [理解nodeJS中的Event loop](https://github.com/wuxianqiang/blog/issues/87) :new: 
+* [x] [如何构建自己的抽象组件？](https://github.com/wuxianqiang/blog/issues/119) :new: 
 
 
 **文章还在更新中...**
