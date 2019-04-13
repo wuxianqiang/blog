@@ -8,6 +8,7 @@
 * [x] [如何构建自己的抽象组件？](https://github.com/wuxianqiang/blog/issues/119)
 * [x] [300个VueJS面试问题](https://github.com/sudheerj/vuejs-interview-questions)
 * [x] [9个VueJS性能优化揭秘](https://slides.com/akryum/vueconfus-2019#/3)
+* [x] [在组件上使用v-model] (https://slides.com/akryum/vueconfus-2019#/127)
 #### Node系列
 
 * [x] [接收POST数据](https://github.com/wuxianqiang/blog/issues/122)
