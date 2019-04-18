@@ -18,4 +18,7 @@
 * [x] [接收文件数据](https://github.com/wuxianqiang/blog/issues/125)
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
 
+### 运维和部署
+* [x] [linux学习资源整理](https://github.com/jaywcjlove/linux-command#linux%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)
+
 **文章还在更新中...**
