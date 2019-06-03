@@ -19,6 +19,7 @@
 * [x] [接收JSON数据](https://github.com/wuxianqiang/blog/issues/124)
 * [x] [接收文件数据](https://github.com/wuxianqiang/blog/issues/125)
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
+* [x] [Node是如何实现异步I/O的](https://github.com/wuxianqiang/blog/issues/121)
 
 #### 运维和部署
 * [x] [vagrant极简教程：快速搭建centos7](https://www.cnblogs.com/wuxianqiang/p/10615201.html)
