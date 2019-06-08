@@ -17,6 +17,7 @@
 ### React系列
 * [x] [快速入门React](https://github.com/wuxianqiang/blog/issues/159)
 * [x] [React中PureComponent原理](https://github.com/wuxianqiang/blog/issues/160)
+* [x] [redux从使用到原理](https://github.com/wuxianqiang/blog/issues/165)
 
 ### Node系列
 
