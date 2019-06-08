@@ -3,7 +3,7 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-#### Vue系列
+### Vue系列
 * [x] [为什么组件的data是函数？](https://github.com/wuxianqiang/blog/issues/120)
 * [x] [如何构建自己的抽象组件？](https://github.com/wuxianqiang/blog/issues/119)
 * [x] [300个VueJS面试问题](https://github.com/sudheerj/vuejs-interview-questions)
@@ -17,7 +17,7 @@
 * [x] [快速入门React](https://github.com/wuxianqiang/blog/issues/159)
 * [x] [React中PureComponent原理](https://github.com/wuxianqiang/blog/issues/160)
 
-#### Node系列
+### Node系列
 
 * [x] [接收POST数据](https://github.com/wuxianqiang/blog/issues/122)
 * [x] [接收表单数据](https://github.com/wuxianqiang/blog/issues/123)
@@ -26,7 +26,7 @@
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
 * [x] [Node是如何实现异步I/O的](https://github.com/wuxianqiang/blog/issues/156)
 
-#### 运维和部署
+### 运维和部署
 * [x] [vagrant极简教程：快速搭建centos7](https://www.cnblogs.com/wuxianqiang/p/10615201.html)
 * [x] [docker中镜像导入导出](https://github.com/wuxianqiang/blog/issues/139)
 * [x] [linux学习资源整理](https://github.com/jaywcjlove/linux-command#linux%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)
