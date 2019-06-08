@@ -12,6 +12,11 @@
 * [x] [vue中if和for指令不能同时使用](https://github.com/wuxianqiang/blog/issues/128)
 * [x] [计算属性computed和侦听属性watch的区别](https://github.com/wuxianqiang/blog/issues/147)
 * [x] [计算属性computed和方法methods的区别](https://github.com/wuxianqiang/blog/issues/146)
+
+### React系列
+* [x] [快速入门React](https://github.com/wuxianqiang/blog/issues/159)
+* [x] [React中PureComponent原理](https://github.com/wuxianqiang/blog/issues/160)
+
 #### Node系列
 
 * [x] [接收POST数据](https://github.com/wuxianqiang/blog/issues/122)
