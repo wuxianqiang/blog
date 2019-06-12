@@ -1,5 +1,5 @@
 # 前端开发系列分享
-所有文章都在[Issues](https://github.com/wuxianqiang/blog/issues)的里面，切换到[Issues](https://github.com/wuxianqiang/blog/issues)查看所有内容，下面只列出部分内容。
+所有文章都在[Issues](https://github.com/wuxianqiang/blog/issues)的里面，切换到[Issues](https://github.com/wuxianqiang/blog/issues)查看所有内容，下面只列出部分内容。欢迎大家订阅博客，点击右上角的`Watch`按钮即可，每次更新会有提醒。
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
