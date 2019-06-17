@@ -33,6 +33,7 @@
 * [x] [vagrant极简教程：快速搭建centos7](https://www.cnblogs.com/wuxianqiang/p/10615201.html)
 * [x] [docker中镜像导入导出](https://github.com/wuxianqiang/blog/issues/139)
 * [x] [linux学习资源整理](https://github.com/jaywcjlove/linux-command#linux%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)
+* [x] [自动部署你的博客](https://mp.weixin.qq.com/s/3vZWMdLb9SfbXq4-54crXA)
 
 ### 面试系列
 * [x] [大厂面试题](https://github.com/wuxianqiang/blog/issues/106)
