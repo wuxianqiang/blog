@@ -13,6 +13,9 @@
 * [x] [计算属性computed和侦听属性watch的区别](https://github.com/wuxianqiang/blog/issues/147)
 * [x] [计算属性computed和方法methods的区别](https://github.com/wuxianqiang/blog/issues/146)
 * [x] [10分钟学会vuex](https://github.com/wuxianqiang/blog/issues/161)
+* [x] [跨组件属性传递](https://juejin.im/post/5cce7afae51d453f146bb8d5)
+* [x] [ref转发到DOM元素](https://juejin.im/post/5ccee9566fb9a0321b697ca2)
+
 
 ### React系列
 * [x] [快速入门React](https://github.com/wuxianqiang/blog/issues/159)
