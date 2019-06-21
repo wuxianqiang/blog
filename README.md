@@ -31,6 +31,7 @@
 * [x] [接收表单数据](https://github.com/wuxianqiang/blog/issues/123)
 * [x] [接收JSON数据](https://github.com/wuxianqiang/blog/issues/124)
 * [x] [接收文件数据](https://github.com/wuxianqiang/blog/issues/125)
+* [x] [附件下载](https://github.com/wuxianqiang/blog/issues/169)
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
 * [x] [Node是如何实现异步I/O的](https://github.com/wuxianqiang/blog/issues/156)
 * [x] [简单入门Buffer](https://github.com/wuxianqiang/blog/issues/167)
