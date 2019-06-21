@@ -3,6 +3,9 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
+### 二进制
+![二进制](https://github.com/wuxianqiang/blog/blob/master/twocode.gif?raw=true)
+
 ### Vue系列
 * [x] [为什么组件的data是函数？](https://github.com/wuxianqiang/blog/issues/120)
 * [x] [如何构建自己的抽象组件？](https://github.com/wuxianqiang/blog/issues/119)
