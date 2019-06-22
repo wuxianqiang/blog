@@ -18,7 +18,6 @@
 * [x] [10分钟学会vuex](https://github.com/wuxianqiang/blog/issues/161)
 * [x] [跨组件属性传递](https://juejin.im/post/5cce7afae51d453f146bb8d5)
 * [x] [ref转发到DOM元素](https://juejin.im/post/5ccee9566fb9a0321b697ca2)
-* [x] [express基本用法](https://github.com/wuxianqiang/blog/issues/156)
 
 
 ### React系列
@@ -36,6 +35,11 @@
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
 * [x] [Node是如何实现异步I/O的](https://github.com/wuxianqiang/blog/issues/156)
 * [x] [简单入门Buffer](https://github.com/wuxianqiang/blog/issues/167)
+
+### express系列
+* [x] [express基本用法](https://github.com/wuxianqiang/blog/issues/171)
+* [x] [express基本原理](https://github.com/wuxianqiang/blog/issues/172)
+
 
 ### 运维和部署
 * [x] [vagrant极简教程：快速搭建centos7](https://www.cnblogs.com/wuxianqiang/p/10615201.html)
