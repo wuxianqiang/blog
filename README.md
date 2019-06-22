@@ -6,6 +6,9 @@
 ### 二进制
 ![二进制](https://github.com/wuxianqiang/blog/blob/master/twocode.gif?raw=true)
 
+### JS系列
+* [x] [promise A+ 原理](https://github.com/wuxianqiang/blog/issues/92)
+
 ### Vue系列
 * [x] [为什么组件的data是函数？](https://github.com/wuxianqiang/blog/issues/120)
 * [x] [如何构建自己的抽象组件？](https://github.com/wuxianqiang/blog/issues/119)
