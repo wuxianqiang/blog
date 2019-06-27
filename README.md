@@ -39,6 +39,7 @@
 * [x] [理解浏览器缓存](https://github.com/wuxianqiang/blog/issues/121)
 * [x] [Node是如何实现异步I/O的](https://github.com/wuxianqiang/blog/issues/156)
 * [x] [简单入门Buffer](https://github.com/wuxianqiang/blog/issues/167)
+* [x] [单击上搭建Node集群](https://github.com/wuxianqiang/blog/issues/175)
 
 ### express系列
 * [x] [express基本用法](https://github.com/wuxianqiang/blog/issues/171)
