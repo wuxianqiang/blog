@@ -56,5 +56,5 @@
 * [x] [大厂面试题](https://github.com/wuxianqiang/blog/issues/106)
 * [x] [有什么是你面试很多次都失败后才知道的？](https://www.zhihu.com/question/290543744/answer/595815243)
 
-微信扫一扫，关注【前端精髓】，作者发布文章，通过广告带来收益，希望大家多多支持，原创不易，禁止转载！
+微信扫一扫，关注【前端精髓】公众号，希望大家多多支持，原创不易，禁止转载！
 ![logo](https://img-blog.csdnimg.cn/20190602090952566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1X3hpYW5xaWFuZw==,size_16,color_FFFFFF,t_70)
