@@ -45,6 +45,11 @@
 * [x] [express基本用法](https://github.com/wuxianqiang/blog/issues/171)
 * [x] [express基本原理](https://github.com/wuxianqiang/blog/issues/172)
 
+### webpack
+
+* [ ] webpack优化
+* [ ] babel插件(箭头函数转换为普通函数，类转换为普通类)
+
 
 ### 运维和部署
 * [x] [vagrant极简教程：快速搭建centos7](https://www.cnblogs.com/wuxianqiang/p/10615201.html)
