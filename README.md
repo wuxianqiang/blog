@@ -58,6 +58,10 @@
 * [x] [自动部署你的博客](https://mp.weixin.qq.com/s/3vZWMdLb9SfbXq4-54crXA)
 
 ### 面试系列
+* [x] vue原理
+* [x] vuex原理
+* [x] vue-router原理
+* [x] react的虚拟DOM原理
 * [x] [大厂面试题](https://github.com/wuxianqiang/blog/issues/106)
 * [x] [有什么是你面试很多次都失败后才知道的？](https://www.zhihu.com/question/290543744/answer/595815243)
 
