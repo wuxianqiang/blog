@@ -85,6 +85,7 @@
 
 ### 算法系列
 * [x] [合并乱序区间](https://github.com/wuxianqiang/blog/issues/258)
+* [x] [两数之和](https://github.com/wuxianqiang/blog/issues/259)
 
 
 ### 设计模式
