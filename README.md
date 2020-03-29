@@ -58,6 +58,13 @@
 * [x] [自动部署你的博客](https://mp.weixin.qq.com/s/3vZWMdLb9SfbXq4-54crXA)
 
 ### 面试系列
+* [x] [react有哪些生命周期，哪些生命周期里面可以setState](https://github.com/wuxianqiang/blog/issues/256)
+* [x] [实现(10).add(10).add(10)](https://github.com/wuxianqiang/blog/issues/255)
+* [x] [关于二叉树的面试题](https://github.com/wuxianqiang/blog/issues/254)
+* [x] [[a[b[c]]]转换为树结构](https://github.com/wuxianqiang/blog/issues/253)
+* [x] [实现求和函数add](https://github.com/wuxianqiang/blog/issues/252)
+* [x] [实现符合规范的bind方法](https://github.com/wuxianqiang/blog/issues/251)
+* [x] [数组扁平化](https://github.com/wuxianqiang/blog/issues/250)
 * [x] vue原理
 * [x] vuex原理
 * [x] vue-router原理
