@@ -83,15 +83,15 @@
 
 ### 设计模式
 
-* [x] 设计模式之策略模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486337&idx=1&sn=b2c6d33d7a85102321c1b3f1c687fe81&chksm=eaed2140dd9aa856db5335909f953d228e17471b93c8039d8ba7c86984e9dfb759e9e7570880&scene=21#wechat_redirect)
-* [x] 设计模式之享元模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486329&idx=1&sn=540128ae09d19c3dc57c1a5aae329175&chksm=eaed21b8dd9aa8ae0dfdbb1f418412d3aca00f639090e8322b4eb6dd0b4cb1978c32cdd7a377&scene=21#wechat_redirect)
-* [x] 设计模式之原型模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486324&idx=1&sn=d1e112aa7d6751b66f34e92e5207be7b&chksm=eaed21b5dd9aa8a34b19e63e804ddf8d5040eb0a8509a9d25b08735a0dd6e64d6c88df5ba7be&scene=21#wechat_redirect)
-* [x] 设计模式之状态模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486314&idx=1&sn=64bda0df48401c6fd2cb3689a1c2cb26&chksm=eaed21abdd9aa8bd68dae5212f4fe4121d607a9a9b617c5b7f60edada7a3966e7fd10b4c9b4e&scene=21#wechat_redirect)
-* [x] 设计模式之观察者模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486303&idx=1&sn=1d7f510658054d0a768976f491fd2f5d&chksm=eaed219edd9aa8888f7bfbf945c891eeb604ee5f352e31ff7709f05f65d9d0b075f4b8d1cdda&scene=21#wechat_redirect)
-* [x] 设计模式之代理模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486298&idx=1&sn=e54bacb7238ca8947975dcce60702756&chksm=eaed219bdd9aa88d50129d9e374f58cfb2489e91279f38efab9bc67a046683a368a4921edc33&scene=21#wechat_redirect)
-* [x] 设计模式之装饰器模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486293&idx=1&sn=7178df8c50681726d4128c04f91dd2ec&chksm=eaed2194dd9aa88248198f6a84e01b87dbdcd07c7ea5dd21519e7f427ecbafc007be04fb9083&scene=21#wechat_redirect)
-* [x] 设计模式之适配器模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486286&idx=1&sn=bde5374291eb9a7b8b3c18a5af9dc341&chksm=eaed218fdd9aa899b19dc231a0e4a7a69ced039420a33037eff094cd5d623b6069fb9924fb86&scene=21#wechat_redirect)
-* [x] 设计模式之单例模式(http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486280&idx=1&sn=9f26b9166c924eb37ca9ef426c3722f3&chksm=eaed2189dd9aa89f0ad4ea3dade4131f3372ffa105c227d283d9a5cf19be279848c088041f4a&scene=21#wechat_redirect)
+* [x] [设计模式之策略模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486337&idx=1&sn=b2c6d33d7a85102321c1b3f1c687fe81&chksm=eaed2140dd9aa856db5335909f953d228e17471b93c8039d8ba7c86984e9dfb759e9e7570880&scene=21#wechat_redirect)
+* [x] [设计模式之享元模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486329&idx=1&sn=540128ae09d19c3dc57c1a5aae329175&chksm=eaed21b8dd9aa8ae0dfdbb1f418412d3aca00f639090e8322b4eb6dd0b4cb1978c32cdd7a377&scene=21#wechat_redirect)
+* [x] [设计模式之原型模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486324&idx=1&sn=d1e112aa7d6751b66f34e92e5207be7b&chksm=eaed21b5dd9aa8a34b19e63e804ddf8d5040eb0a8509a9d25b08735a0dd6e64d6c88df5ba7be&scene=21#wechat_redirect)
+* [x] [设计模式之状态模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486314&idx=1&sn=64bda0df48401c6fd2cb3689a1c2cb26&chksm=eaed21abdd9aa8bd68dae5212f4fe4121d607a9a9b617c5b7f60edada7a3966e7fd10b4c9b4e&scene=21#wechat_redirect)
+* [x] [设计模式之观察者模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486303&idx=1&sn=1d7f510658054d0a768976f491fd2f5d&chksm=eaed219edd9aa8888f7bfbf945c891eeb604ee5f352e31ff7709f05f65d9d0b075f4b8d1cdda&scene=21#wechat_redirect)
+* [x] [设计模式之代理模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486298&idx=1&sn=e54bacb7238ca8947975dcce60702756&chksm=eaed219bdd9aa88d50129d9e374f58cfb2489e91279f38efab9bc67a046683a368a4921edc33&scene=21#wechat_redirect)
+* [x] [设计模式之装饰器模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486293&idx=1&sn=7178df8c50681726d4128c04f91dd2ec&chksm=eaed2194dd9aa88248198f6a84e01b87dbdcd07c7ea5dd21519e7f427ecbafc007be04fb9083&scene=21#wechat_redirect)
+* [x] [设计模式之适配器模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486286&idx=1&sn=bde5374291eb9a7b8b3c18a5af9dc341&chksm=eaed218fdd9aa899b19dc231a0e4a7a69ced039420a33037eff094cd5d623b6069fb9924fb86&scene=21#wechat_redirect)
+* [x] [设计模式之单例模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486280&idx=1&sn=9f26b9166c924eb37ca9ef426c3722f3&chksm=eaed2189dd9aa89f0ad4ea3dade4131f3372ffa105c227d283d9a5cf19be279848c088041f4a&scene=21#wechat_redirect)
 
 微信扫一扫，关注【前端精髓】公众号，希望大家多多支持，原创不易，禁止转载！
 ![logo](https://img-blog.csdnimg.cn/20190602090952566.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1X3hpYW5xaWFuZw==,size_16,color_FFFFFF,t_70)
