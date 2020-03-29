@@ -78,6 +78,7 @@
 * [x] [大厂面试题](https://github.com/wuxianqiang/blog/issues/106)
 * [x] [有什么是你面试很多次都失败后才知道的？](https://www.zhihu.com/question/290543744/answer/595815243)
 * [x] [前端面试题](http://www.100mian.com/mianshi/webqianduan/50022.html)
+* [x] [实现大整数相加](https://github.com/wuxianqiang/blog/issues/257)
 * [x] vue-router原理
 * [x] react的虚拟DOM原理
 * [x] vue原理
