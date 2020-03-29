@@ -83,6 +83,10 @@
 * [x] react的虚拟DOM原理
 * [x] vue原理
 
+### 算法系列
+* [x] [合并乱序区间](https://github.com/wuxianqiang/blog/issues/258)
+
+
 ### 设计模式
 
 * [x] [设计模式之策略模式](http://mp.weixin.qq.com/s?__biz=MzI2ODY0ODM2Ng==&mid=2247486337&idx=1&sn=b2c6d33d7a85102321c1b3f1c687fe81&chksm=eaed2140dd9aa856db5335909f953d228e17471b93c8039d8ba7c86984e9dfb759e9e7570880&scene=21#wechat_redirect)
