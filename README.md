@@ -65,8 +65,15 @@
 * [x] [实现求和函数add](https://github.com/wuxianqiang/blog/issues/252)
 * [x] [实现符合规范的bind方法](https://github.com/wuxianqiang/blog/issues/251)
 * [x] [数组扁平化](https://github.com/wuxianqiang/blog/issues/250)
+* [x] [实现parse取值函数](https://github.com/wuxianqiang/blog/issues/249)
+* [x] [我怎样才能真正洗牌一个数组？](https://github.com/wuxianqiang/blog/issues/235)
+* [x] [如何生成某个范围内的随机整数，但排除整数子集？](https://github.com/wuxianqiang/blog/issues/233)
+* [x] [二叉查找法](https://github.com/wuxianqiang/blog/issues/225)
+* [x] [观察者和发布订阅的区别](https://github.com/wuxianqiang/blog/issues/226)
+* [x] [详解web缓存](https://github.com/wuxianqiang/blog/issues/224)
+* [x] [冒泡排序](https://github.com/wuxianqiang/blog/issues/221)
 * [x] vue原理
-* [x] vuex原理
+* [x] [vuex原理](https://github.com/wuxianqiang/blog/issues/211)
 * [x] vue-router原理
 * [x] react的虚拟DOM原理
 * [x] [大厂面试题](https://github.com/wuxianqiang/blog/issues/106)
